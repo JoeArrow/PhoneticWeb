@@ -1,9 +1,34 @@
-ul#city {
+ul#city 
+{
     background: #00cc00;
     padding: 20px;
 }
 
-ul#city li {
+ul#city li 
+{
     background:  #b3e5b3;
     margin: 5px;
+}
+
+// ---------------------------------------
+
+table
+{
+	width: 			220px;
+}
+
+td.letter
+{
+	width: 			20px;
+	font-weight: 	bolder;
+	font-size:		15pt;
+	text-align: 	center;
+    background:  	#84D584;
+}
+
+td.phonic
+{
+	width: 			200px;
+	font-size:		20pt;
+    background:  	#b3e5b3;
 }

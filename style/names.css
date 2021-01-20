@@ -21,7 +21,7 @@ td.letter
 {
 	width: 			20px;
 	font-weight: 	bolder;
-	font-size:		15pt;
+	font-size:		20pt;
 	text-align: 	center;
     background:  	#FECACA;
 }
@@ -31,4 +31,5 @@ td.phonic
 	width: 			200px;
 	font-size:		20pt;
     background:  	#ffe5e5;
+	padding-left:  	15px;
 }
